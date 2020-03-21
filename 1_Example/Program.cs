@@ -2,6 +2,7 @@
  * Это простая программа на C#
  * Назовем ее Example.cs
  */
+
 using System;
 
 namespace _1_Example
