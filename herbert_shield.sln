@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_IdTest", "9_IdTest\9_IdTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Inches", "10_Inches\10_Inches.csproj", "{1BB317A7-897B-44C6-B7A9-07CA333FB453}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Use_byte", "11_Use_byte\11_Use_byte.csproj", "{8C29E0DB-A638-4671-9255-0CC91187E511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_FindRadius", "12_FindRadius\12_FindRadius.csproj", "{30D7830F-563B-432F-B502-283D89F5AACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{1BB317A7-897B-44C6-B7A9-07CA333FB453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB317A7-897B-44C6-B7A9-07CA333FB453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB317A7-897B-44C6-B7A9-07CA333FB453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C29E0DB-A638-4671-9255-0CC91187E511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C29E0DB-A638-4671-9255-0CC91187E511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C29E0DB-A638-4671-9255-0CC91187E511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C29E0DB-A638-4671-9255-0CC91187E511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D7830F-563B-432F-B502-283D89F5AACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D7830F-563B-432F-B502-283D89F5AACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D7830F-563B-432F-B502-283D89F5AACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D7830F-563B-432F-B502-283D89F5AACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
