@@ -7,7 +7,7 @@
     <ProjectGuid>{09C6CC44-77C5-4204-8D1A-493267881F48}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_023_VarInitDemo</RootNamespace>
-    <AssemblyName>_023_VarInitDemo</AssemblyName>
+    <AssemblyName>023_VarInitDemo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
