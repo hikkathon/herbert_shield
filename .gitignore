@@ -508,3 +508,5 @@ MigrationBackup/
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 
 # End of https://www.gitignore.io/api/csharp,visualstudio
+.vs/herbert_shield/v16/.suo
+.vs/herbert_shield/v16/Server/sqlite3/storage.ide
